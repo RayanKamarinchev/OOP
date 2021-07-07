@@ -16,7 +16,7 @@ namespace PersonsInfo
                 {
                     throw new ArgumentException("First name cannot contain fewer than 3 symbols!");
                 }
-                firstName = value;
+                    firstName = value;
             }
         }
         public string LastName 

@@ -36,7 +36,6 @@ namespace PersonsInfo
                                             cmdArgs[1],
                                             int.Parse(cmdArgs[2]),
                                             decimal.Parse(cmdArgs[3]));
-
                     persons.Add(person);
                 }
                 catch (ArgumentException e)

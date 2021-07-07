@@ -1,4 +1,6 @@
-﻿namespace Animals
+﻿using System;
+
+namespace Animals
 {
     public class StartUp
     {
